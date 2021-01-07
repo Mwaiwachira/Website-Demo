@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(113, 115, 240);
+}
+img
+{
+width: 100px;
+height: 100px;
+}
+
+
+.carousel-inner .item img{
+    height: 600px;
+      width: 100%;
+      
+      margin-bottom: 600px;
+  }
+  .carousel-inner{
+    height: 600px;
+  }
+
+
+  .navbar-nav{
+   
+    padding-left:700px;
+    margin-top:0px;
+   
+    margin-left: 300px;
+     padding-top:30 px;
+    
+    
+  }
+.section1 {
+     padding-top: 10px;
+
+
+}
+footer
+{
+display: inline;                                                                                                                 
+margin-top: 100PX;
+background-image: linear-gradient(to right, rgb(0, 68, 255) , rgb(0, 0, 0))
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+margin-left: 150px;
+  text-decoration: none;
+  display: inline-block;
+  color: aliceblue;
+  
+  
+  
+}
+.fa img{
+  color: white;
+  size: 10px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  
+  color: white;
+}
+.container-fluid{
+  margin-top: 50px;
+}
+.container-fluid h3{
+  color: red;
+}
+h4{
+margin-left: 200px;
+
+}
+.ss p{
+  margin-left: 100px;
+}
+.ss h4{
+  color: black;
+}
+.row1{
+  margin-top: 100px;
+}
